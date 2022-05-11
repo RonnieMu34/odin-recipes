@@ -8,6 +8,7 @@ img {
     width: 40%;
 }
 
-.about, .aboutpara {
+.about,
+.aboutpara {
     text-align: center;
 }
