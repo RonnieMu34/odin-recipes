@@ -7,3 +7,7 @@ img {
     height: auto;
     width: 40%;
 }
+
+.about, .aboutpara {
+    text-align: center;
+}
