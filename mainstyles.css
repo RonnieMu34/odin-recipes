@@ -1,0 +1,12 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+}
