@@ -20,3 +20,7 @@ img {
 .about, .aboutpara {
     text-align: center;
 }
+
+.aboutpara {
+    padding-bottom: 30px;
+}
