@@ -2,3 +2,17 @@
     background-color: skyblue;
     font-family: 'Courier New', Courier, monospace;
 }
+
+h1 {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
