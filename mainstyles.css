@@ -12,6 +12,8 @@ ul {
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
     font-weight: bold;
+    padding: 50px;
+    border: 5px solid black;
 }
 
 a:link,
