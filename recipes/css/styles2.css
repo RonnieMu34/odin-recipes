@@ -3,6 +3,12 @@ html {
     font-family: 'Courier New', Courier, monospace;
 }
 
+a:link,
+a:visited,
+a:active {
+    color: black;
+}
+
 h1 {
     text-align: center;
 }
