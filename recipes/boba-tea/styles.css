@@ -3,6 +3,14 @@ img {
     max-height: 300px;
 }
 
+ul {
+    list-style-type: none;
+}
+
+li:before {
+    content: "~ ";
+}
+
 h1 {
     font-family: cursive;
     text-align: left;
