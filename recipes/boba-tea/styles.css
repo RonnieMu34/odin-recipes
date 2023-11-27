@@ -23,12 +23,13 @@ h1 {
 
 .ingredients {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    border: 5px solid rgb(156, 105, 33);
+    border: 5px dashed rgb(156, 105, 33);
     height: fit-content;
     width: fit-content;
     margin: 25px;
     padding: 10px;
     text-align: center;
+    border-radius: 25px;
 }
 
 .ingredients li {
