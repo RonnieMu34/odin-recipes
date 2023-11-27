@@ -12,12 +12,7 @@ h1 {
     display: flex;
 }
 
-/* .ingredients {
-    text-align: left;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.main-body > .images {
+    display: flex;
+    flex-direction: column;
 }
-
-.images > img{
-    float: right;
-    clear: right;
-} */
