@@ -13,6 +13,8 @@ h1 {
 }
 
 .ingredients {
-    border: 5px solid rgb(255, 77, 0);
+    border: 5px solid rgb(255, 0, 0);
     max-height: 350px;
+    margin: 25px;
+    padding: 10px;
 }
