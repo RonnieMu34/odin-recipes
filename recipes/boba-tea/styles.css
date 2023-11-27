@@ -18,6 +18,7 @@ h1 {
     max-height: 400px;
     margin: 25px;
     padding: 10px;
+    text-align: center;
 }
 
 .ingredients li {
