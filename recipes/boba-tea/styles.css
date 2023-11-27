@@ -12,7 +12,7 @@ h1 {
     display: flex;
 }
 
-.main-body > .images {
+.images {
     display: flex;
     flex-direction: column;
 }
