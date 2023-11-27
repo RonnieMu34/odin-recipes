@@ -19,3 +19,7 @@ h1 {
     margin: 25px;
     padding: 10px;
 }
+
+.ingredients li {
+    padding-bottom: 10px;
+}
