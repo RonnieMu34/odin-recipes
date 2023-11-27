@@ -11,3 +11,7 @@ h1 {
 .main-body {
     display: flex;
 }
+
+.ingredients {
+    border: 5px solid rgb(255, 77, 0);
+}
