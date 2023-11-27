@@ -8,7 +8,11 @@ h1 {
     text-align: left;
 }
 
-.ingredients {
+.main-body {
+    display: flex;
+}
+
+/* .ingredients {
     text-align: left;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -16,4 +20,4 @@ h1 {
 .images > img{
     float: right;
     clear: right;
-}
+} */
