@@ -41,3 +41,8 @@ ul {
 .ingredients li {
     padding-bottom: 10px;
 }
+
+.steps {
+    display: flex;
+    flex-direction: row-reverse;
+}
