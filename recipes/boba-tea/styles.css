@@ -25,6 +25,7 @@ ul {
     text-align: center;
     background-color: #fcb657;
     padding: 20px;
+    border-radius: 25px;
 }
 
 .ingredients li {
