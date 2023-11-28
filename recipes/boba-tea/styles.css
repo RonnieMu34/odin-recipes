@@ -23,6 +23,8 @@ ul {
     height: fit-content;
     width: fit-content;
     text-align: center;
+    background-color: #fcb657;
+    padding: 20px;
 }
 
 .ingredients li {
