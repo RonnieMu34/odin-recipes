@@ -29,6 +29,10 @@ ul {
     border-radius: 25px;
 }
 
+.equals {
+    margin-left: -50px;
+}
+
 .ingredients li {
     padding-bottom: 10px;
 }
