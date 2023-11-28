@@ -15,6 +15,7 @@ ul {
 
 .main-body {
     display: flex;
+    align-items: center;
 }
 
 .ingredients {
