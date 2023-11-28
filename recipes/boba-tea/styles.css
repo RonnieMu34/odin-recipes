@@ -45,6 +45,7 @@ ul {
 .steps {
     display: flex;
     flex-direction: row-reverse;
+    justify-content: center;
 }
 
 .down-arrow {
