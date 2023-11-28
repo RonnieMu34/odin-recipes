@@ -12,8 +12,7 @@ li:before {
     content: "~ ";
 }
 
-h1 {
-    font-family: cursive;
+.boba-icon {
     text-align: left;
 }
 
