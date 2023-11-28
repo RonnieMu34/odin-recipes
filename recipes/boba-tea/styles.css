@@ -33,6 +33,11 @@ ul {
     margin-left: -50px;
 }
 
+.recipe {
+    display: flex;
+    flex-direction: column;
+}
+
 .ingredients li {
     padding-bottom: 10px;
 }
