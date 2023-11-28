@@ -12,8 +12,9 @@ li:before {
     content: "~ ";
 }
 
-.boba-icon {
+.boba-vector {
     text-align: left;
+    max-height: 100px;
 }
 
 .main-body {
