@@ -48,6 +48,10 @@ ul {
     justify-content: center;
 }
 
+.transition {
+    text-align: center;
+}
+
 .down-arrow {
     rotate: 45deg;
 }
