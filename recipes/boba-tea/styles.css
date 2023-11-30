@@ -60,3 +60,8 @@ ul {
 .down-arrow {
     rotate: 45deg;
 }
+
+.steps {
+    display: flex;
+    flex-direction: column;
+}
