@@ -65,4 +65,7 @@ ul {
     display: flex;
     flex-direction: column;
     text-align: left;
+    background-color: #fcb657;
+    max-width: 500px;
+    text-align: center;
 }
