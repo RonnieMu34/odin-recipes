@@ -78,3 +78,8 @@ ul {
     border: 5px solid black;
     margin-left: 50px;
 }
+
+.step-titles {
+    font-weight: bolder;
+    font-size: 24px;
+}
