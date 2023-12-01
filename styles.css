@@ -9,3 +9,8 @@ img {
     align-items: center;
     padding-top: 100px;
 }
+
+.link-box {
+    display: flex;
+    flex-direction: column;
+}
