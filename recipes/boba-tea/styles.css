@@ -92,3 +92,7 @@ ul {
     rotate: 270deg;
     margin-left: 75px;
 }
+
+.back-button {
+    display: flex;
+}
