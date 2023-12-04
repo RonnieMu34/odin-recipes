@@ -95,4 +95,6 @@ ul {
 
 .back-button {
     display: flex;
+    flex-direction: row-reverse;
+    padding-right: 150px;
 }
