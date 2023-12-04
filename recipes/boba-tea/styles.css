@@ -98,4 +98,5 @@ ul {
     flex-direction: row-reverse;
     padding-right: 150px;
     text-decoration: none;
+    color: black;
 }
