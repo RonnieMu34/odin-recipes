@@ -97,4 +97,5 @@ ul {
     display: flex;
     flex-direction: row-reverse;
     padding-right: 150px;
+    text-decoration: none;
 }
